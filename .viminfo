@@ -7,11 +7,15 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~Msle0~/\<asdkfahslkdh\>
+
 # Command Line History (newest to oldest):
 :q!
 :q
 
 # Search String History (newest to oldest):
+? \<asdkfahslkdh\>
 
 # Expression History (newest to oldest):
 
@@ -22,13 +26,23 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/0x00-shell_basics/0-current_working_directory
+'0  1  0  ~/holbertonschool-zero_day/0x02-vi/test
+'1  2  0  ~/0x00-shell_basics/0-current_working_directory
 
 # Jumplist (newest first):
+-'  1  0  ~/holbertonschool-zero_day/0x02-vi/test
+-'  2  0  ~/0x00-shell_basics/0-current_working_directory
+-'  1  0  ~/0x00-shell_basics/0-current_working_directory
 -'  2  0  ~/0x00-shell_basics/0-current_working_directory
 -'  1  0  ~/0x00-shell_basics/0-current_working_directory
 
 # History of marks within files (newest to oldest):
+
+> ~/holbertonschool-zero_day/0x02-vi/test
+	"	1	0
+	^	1	12
+	.	1	12
+	+	1	12
 
 > ~/0x00-shell_basics/0-current_working_directory
 	"	2	0
