@@ -22,6 +22,6 @@ int main()
 	characters = getline(&buffer,&bufsize,stdin);
 	printf("%d characters were read.\n", characters);
 	printf("%s",buffer);
-
+	printf("end of file");
 	return(0);
 }
