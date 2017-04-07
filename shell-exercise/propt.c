@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 /* link to the tutorial - http://c-for-dummies.com/blog/?p=1112 */
+/* test */
 
 int input(char *s,int length);
 
