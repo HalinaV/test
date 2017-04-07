@@ -8,7 +8,7 @@ int input(char *s,int length);
 int main()
 {
 	char *buffer;
-	size_t bufsize = 32;
+	size_t bufsize = 1000;
 	int characters;
 
 	buffer = (char *)malloc(bufsize * sizeof(char));
